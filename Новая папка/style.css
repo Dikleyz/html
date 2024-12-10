@@ -16,7 +16,7 @@ header h1 {
     font-weight: 400;
     font-style: normal;
 
-    font-size: 70px;
+    font-size: 40px;
     text-align: center;
     line-height: 100px;
 }
@@ -43,6 +43,7 @@ table {
 .sneaker1 img, .sneaker2 img, .sneaker3 img, .sneaker4 img, .sneaker5 img, .sneaker6 img {
     width: 300px;
     height: 200px;
+    
 }
 
 .wh h2 {
@@ -67,4 +68,7 @@ table {
 
     font-size: 24px;
     text-align: center;
+}
+td{
+    cursor: pointer;
 }
